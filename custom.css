@@ -1,0 +1,68 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+}
+
+.jumbotron {
+    background-image: url(jumbotron.png);
+    background-size: cover;
+    height: 100%;
+}
+
+.jumbotron .container {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+}
+
+.jumbotron .picture-container {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.row.g-3 .col-md-6, .col-12, .col-md-4, .col-md-5 {
+
+    margin-bottom: 10px;
+
+}
+
+.row h1 {
+    margin-bottom: 20px;
+}
